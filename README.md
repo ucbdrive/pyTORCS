@@ -7,8 +7,8 @@ has only been tested on Ubuntu 16.04 environment, and currently it does not
 support windows or macOSX environment. 
 
 ```bash
-git clone https://github.com/xinleipan/py-TORCS.git
-sudo sh install.sh
+https://github.com/ucbdrive/pyTORCS
+sh install.sh
 ```
 
 ### Usage
