@@ -27,6 +27,7 @@ support windows or macOSX environment.
 
 ```bash
 git clone https://github.com/ucbdrive/pyTORCS
+cd pyTORCS
 bash install.sh
 ```
 
