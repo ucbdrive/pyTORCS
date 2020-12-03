@@ -12,6 +12,7 @@ sudo apt-get upgrade -y
 sudo apt-get update -y
 sudo apt-get install build-essential -y
 sudo apt-get install xvfb -y
+sudo apt-get install libxxf86vm-dev -y
 sudo apt install libgl-dev -y
 sudo apt install freeglut3-dev -y
 sudo apt install libplib-dev -y
